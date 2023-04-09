@@ -1,0 +1,33 @@
+
+.card{
+  background-color: lightseagreen;
+  width: 400px;
+  padding:40px ;
+  border-radius: 20px;
+}
+h2{
+  color:chartreuse;
+}
+h3{
+  color: red;
+}
+input{
+  padding: 10px;
+  border-radius: 7px;
+  border: none;
+  width: 300px;
+
+}
+button{
+  padding: 10px;
+  border: none;
+  border-radius: 7px;
+  background-color:dodgerblue;
+  color: white;
+  margin-top: 5px;
+  
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  font-weight: bolder;
+}
